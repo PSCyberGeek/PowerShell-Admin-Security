@@ -7,7 +7,7 @@ Below is a list of available scripts, their purposes, and categories:
 | Script Name          | Purpose                        | Category      |
 |----------------------|--------------------------------|---------------|
 | Get-SystemInfo.ps1   | Retrieves basic system details (OS, CPU, memory) | Admin |
-
+| Clean-TempFiles.ps1  | Deletes temporary files to free up disk space | Admin    |
 
 *Note:* This table will be updated as new scripts are added.
 
