@@ -3,7 +3,7 @@
 # Category: Admin
 # Author: PSCyberGeek
 # Creation Date: February 20, 2025
-# Version: 1.3
+# Version: 1.0
 # Usage: Run in PowerShell with .\Clean-TempFiles.ps1 (Admin privileges recommended).
 # Requirements: Run as Administrator for full access to all temp directories.
 
