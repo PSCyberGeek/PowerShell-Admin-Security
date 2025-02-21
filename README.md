@@ -1,16 +1,32 @@
 # PowerShell-Admin-Security
-
-A collection of PowerShell scripts designed for system administrators and security tasks. This repo includes simple scripts for everyday admin work (e.g., file management, system info) and security-focused tools (e.g., log analysis, process monitoring).
+This is a collection of PowerShell scripts tailored for system administrators and security professionals. It includes practical scripts for everyday admin tasks (e.g., file management, system information retrieval) and security-focused utilities (e.g., log analysis, process monitoring).
 
 ## Scripts
+Below is a list of available scripts, their purposes, and categories:
 
-| Script Name         | Purpose                          | Category       |
-|---------------------|----------------------------------|----------------|
-| (Add scripts here)  | (Description)                    | (Admin/Security) |
+| Script Name          | Purpose                        | Category      |
+|----------------------|--------------------------------|---------------|
+| (Add scripts here)   | (Description)                  | (Admin/Security) |
+| (Example: Get-SystemInfo.ps1) | Retrieves system details | Admin |
+| (Example: Monitor-Processes.ps1) | Monitors running processes | Security |
+
+*Note:* This table will be updated as new scripts are added.
 
 ## Usage
-- Download any `.ps1` file and run it in PowerShell with `.\scriptname.ps1`.
-- Check each script’s comments for details.
+1. Download any `.ps1` file from this repository.
+2. Open PowerShell and navigate to the script’s directory.
+3. Run the script using `.\scriptname.ps1`.
+4. Refer to the comments within each script for specific instructions and requirements.
+
+*Tip:* Ensure you have appropriate permissions (e.g., run PowerShell as Administrator) for certain scripts to function correctly.
+
+## Contributing
+Suggestions and contributions are welcome! Feel free to:
+- Open an issue to report bugs or request features.
+- Submit a pull request with your own scripts or improvements.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+
+## Contact
+Have questions or feedback? Reach out via [GitHub Issues](https://github.com/PSCyberGeek/PowerShell-Admin-Security/issues).
