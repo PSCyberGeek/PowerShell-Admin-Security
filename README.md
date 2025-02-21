@@ -6,9 +6,8 @@ Below is a list of available scripts, their purposes, and categories:
 
 | Script Name          | Purpose                        | Category      |
 |----------------------|--------------------------------|---------------|
-| (Add scripts here)   | (Description)                  | (Admin/Security) |
-| (Example: Get-SystemInfo.ps1) | Retrieves system details | Admin |
-| (Example: Monitor-Processes.ps1) | Monitors running processes | Security |
+| Get-SystemInfo.ps1   | Retrieves basic system details (OS, CPU, memory) | Admin |
+
 
 *Note:* This table will be updated as new scripts are added.
 
